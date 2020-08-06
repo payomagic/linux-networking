@@ -15,3 +15,11 @@ tap_interface_install_w_masquerade
 vpn-check.sh
 vpn-establish.sh
 ```
+### GRE Tunnel
+```
+GRE tunnel linux.md
+```
+### Start script on boot
+```
+sudo update-rc.d /etc/init.d/vpn-check defaults
+```
