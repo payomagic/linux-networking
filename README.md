@@ -23,3 +23,23 @@ GRE tunnel linux.md
 ```
 sudo update-rc.d /etc/init.d/vpn-check defaults
 ```
+```
+*****************************************************************
+*                                                               *
+*      PRIVATE PROPERTY -- YOU ARE MONITORED! LEAVE NOW!        *
+* ------------------------------------------------------------- *
+*    THIS COMPUTER SYSTEM, INCLUDING ALL RELATED EQUIPMENT,     *
+*                 NETWORKS AND NETWORK DEVICES                  *
+*           (SPECIFICALLY INCLUDING INTERNET ACCESS)            *
+*   ARE PROVIDED ONLY FOR AUTHORIZED USE. USE OF THIS SYSTEM    *
+* AUTHORIZED OR UNAUTHORIZED, CONSTITUTES CONSENT TO MONITORING *
+*                                                               *
+*    UNAUTHORIZED USE MAY SUBJECT YOU TO CRIMINAL PROSECUTION   *
+* EVIDENCE OF UNAUTHORIZED USE COLLECTED DURING MONITORING MAY  *
+* BE USED FOR ADMINISTRATIVE, CRIMINAL OR OTHER ADVERSE ACTION  *
+*                                                               *
+*    USE OF THIS SYSTEM CONSTITUTES CONSENT TO MONITORING.      *
+*                                                               *
+*****************************************************************
+ 
+```
